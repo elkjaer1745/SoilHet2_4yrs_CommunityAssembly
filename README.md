@@ -1,5 +1,4 @@
-# "Spatial pattern of seed arrival has a
-# greater effect on plant diversity than does soil heterogeneity in a grassland ecosystem."
+# "Spatial pattern of seed arrival has a greater effect on plant diversity than does soil heterogeneity in a grassland ecosystem."
 
 This repository contains R code used for the analysis and visualizaitons contained in the manuscript "Spatial pattern of seed arrival has a
 greater effect on plant diversity than does soil heterogeneity in a grassland ecosystem."
